@@ -1,0 +1,2 @@
+Unity.Entities.JobForEachExtensions+JobStruct_Process_ED`2[Unity.Transforms.CopyInitialTransformFromGameObjectSystem+CopyTransforms,Unity.Transforms.LocalToWorld]
+Unity.Entities.JobForEachExtensions+JobStruct_Process_ED`2[Unity.Transforms.CopyTransformFromGameObjectSystem+CopyTransforms,Unity.Transforms.LocalToWorld]
